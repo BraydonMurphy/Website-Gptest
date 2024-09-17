@@ -3,11 +3,11 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background: linear-gradient(to left, #FF8830, #0ACE00); /* Gradient from right to left */
+    background: linear-gradient(to left, #8F5FA8, #D8BDE5); /* Gradient from right to left */
 }
 
 header {
-    background-color: #FFBB88;  /* Light orange color */
+    background-color: #F3E8F8;  /* Very light purple */
     padding: 20px;
     color: white;  /* Text color inside header */
 }
