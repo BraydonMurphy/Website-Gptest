@@ -7,9 +7,9 @@ body {
 }
 
 header {
-    background-color: #2E4272;
+    background-color: #2E4272;  /* Blue color */
     padding: 20px;
-    color: white;
+    color: white;  /* Text color inside header */
 }
 
 section {
