@@ -36,6 +36,7 @@ footer {
 h1 {
     animation: bounce 5s 3;  /* Slower bounce (5 seconds) and stops after 3 times */
     color: #000000;  /* Black header */
+    font-size: 72px;
 }
 /* Add shadow to the header */
 header {
