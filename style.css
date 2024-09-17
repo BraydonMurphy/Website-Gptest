@@ -39,7 +39,7 @@ h1 {
 }
 /* Add shadow to the header */
 header {
-    background-color: #FFBB88;
+    background-color: #4D287E;
     padding: 20px;
     color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);  /* Subtle shadow */
@@ -52,8 +52,8 @@ section {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 button {
-    background-color: #FF5733;
-    border: none;
+    background-color: #2777A2;
+    border: black;
     color: white;
     padding: 10px 20px;
     font-size: 16px;
