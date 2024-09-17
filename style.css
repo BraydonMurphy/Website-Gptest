@@ -37,5 +37,19 @@ h1 {
     animation: bounce 5s 3;  /* Slower bounce (5 seconds) and stops after 3 times */
     color: #000000;  /* Black header */
 }
+/* Add shadow to the header */
+header {
+    background-color: #FFBB88;
+    padding: 20px;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);  /* Subtle shadow */
+}
+
+/* Add shadow to sections */
+section {
+    margin: 22px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
 
