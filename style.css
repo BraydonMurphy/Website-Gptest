@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background: linear-gradient(to right, #FF8830, #FE6C00); /* Gradient from left to right */
+    background: linear-gradient(to left, #FF8830, #0ACE00); /* Gradient from right to left */
 }
 
 header {
