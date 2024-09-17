@@ -6,7 +6,7 @@ This is a simple website where I am experimenting with HTML, CSS, and JavaScript
 
 ## Live Site
 
-You can view the website live at: [https://your-username.github.io/test-website/](https://your-username.github.io/test-website/)
+You can view the website live at: [[https://your-username.github.io/test-website/](https://your-username.github.io/test-website/)](https://braydonmurphy.github.io/website-gptest/)
 
 ## About This Website
 
