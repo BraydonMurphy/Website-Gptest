@@ -7,13 +7,13 @@ body {
 }
 
 header {
-    background-color: #A85903;  /* Orange color */
+    background-color: #407F7F;  /* Blue color */
     padding: 20px;
     color: white;  /* Text color inside header */
 }
 
 section {
-    margin: 20px;
+    margin: 22px;
 }
 
 footer {
