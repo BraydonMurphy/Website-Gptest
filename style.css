@@ -24,3 +24,17 @@ footer {
     width: 100%;
     bottom: 0;
 }
+/* Animation for bouncing effect */
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);  /* Start and end at the original position */
+    }
+    50% {
+        transform: translateY(-20px);  /* Move 20px upwards in the middle of the animation */
+    }
+}
+
+/* Apply the animation to the h1 (header text) */
+h1 {
+    animation: bounce 2s infinite;  /* Bounces up and down every 2 seconds */
+}
