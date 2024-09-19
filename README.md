@@ -6,7 +6,7 @@ This is a simple website where I am experimenting with HTML, CSS, and JavaScript
 
 ## Live Site
 
-You can view the website live at: [[https://your-username.github.io/test-website/](https://your-username.github.io/test-website/)](https://braydonmurphy.github.io/website-gptest/)
+You can view the website live at: https://braydonmurphy.github.io/Website-Gptest/
 
 ## About This Website
 
@@ -25,7 +25,7 @@ This site contains:
 
 To view the website, simply click on the live link above. The website is static, meaning it doesn't require any special installation or setup.
 
-Feel free to fork this repository or clone it if you want to experiment with your own changes.
+Feel free to fork this repository or clone it if you want to experiment with your own changes.0.0 
 
 ## License
 
